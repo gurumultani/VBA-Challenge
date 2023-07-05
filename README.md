@@ -1,4 +1,12 @@
 # VBA-Challenge
+
+
+
+
+
+
+
+
 challengeSubmission
 ' take the max and min and place them in a separate part in the worksheet
         ws.Range("Q2") = "%" & WorksheetFunction.Max(ws.Range("K2:K" & lastrow)) * 100
